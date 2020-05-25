@@ -9,16 +9,36 @@ https://dacon.io/competitions/official/235590/overview/
 * 대회 공식 데이터
 
 Case.csv
+
 PatientInfo.csv
+
 PatientRoute.csv
+
 Policy.csv
+
 Region.csv
+
 SearchTrend.csv
+
 SeoulFloating.csv
+
 Time.csv
+
 TimeAge.csv
+
 TimeGender.csv
+
 TimeProvince.csv
+
 Weather.csv
 
+
 * 외부 데이터
+
+filght.csv
+
+jeju_passenger.csv
+
+kospi.csv
+
+passenger.csv
